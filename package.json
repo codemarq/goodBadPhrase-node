@@ -1,0 +1,32 @@
+{
+  "name": "good_bad_phrases-node",
+  "version": "1.0.0",
+  "description": "an app that has two web servers.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemarq/goodBadPhrase-node.git"
+  },
+  "keywords": [
+    "good",
+    "bad",
+    "phrases",
+    "two",
+    "node",
+    "servers",
+    "practice"
+  ],
+  "author": "John-Mike Marquardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codemarq/goodBadPhrase-node/issues"
+  },
+  "homepage": "https://github.com/codemarq/goodBadPhrase-node#readme",
+  "dependencies": {
+    "twitter": "^1.4.0"
+  }
+}
